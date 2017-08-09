@@ -113,8 +113,8 @@ Make sure to have an up-to-date version of pip by running ``pip3 install -U pip`
 
 .. _install-source-windows:
 
-🐱💻 Installation from Source on Windows
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Installation from Source on Windows
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note::
     Mitmproxy's console interface is not supported on Windows, but you can use
